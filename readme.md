@@ -1,0 +1,1 @@
+Hi, this is an application that simply uses the DOG API and filters dogs based off of their breeds and returns an image.
